@@ -12,16 +12,16 @@ This is just a simple and fun version of the Tic-Tac-Toe game that allows one pl
 ## Screenshots
 
 #### Game starting
-!["starting.png"](https://github.com/sylvain-gdk/project-rss/blob/master/docs/start.png)
+!["starting.png"](https://github.com/sylvain-gdk/project-tic-tac-toe/blob/master/docs/start.png)
 
 #### Game play
-!["starting.png"](https://github.com/sylvain-gdk/project-rss/blob/master/docs/ingame.png)
+!["starting.png"](https://github.com/sylvain-gdk/project-tic-tac-toe/blob/master/docs/ingame.png)
 
 #### It's a tie!
-!["starting.png"](https://github.com/sylvain-gdk/project-rss/blob/master/docs/nulle.png)
+!["starting.png"](https://github.com/sylvain-gdk/project-tic-tac-toe/blob/master/docs/nulle.png)
 
 #### You win!
-!["starting.png"](https://github.com/sylvain-gdk/project-rss/blob/master/docs/win.png)
+!["starting.png"](https://github.com/sylvain-gdk/project-tic-tac-toe/blob/master/docs/win.png)
 
 #### End of game stats
-!["starting.png"](https://github.com/sylvain-gdk/project-rss/blob/master/docs/stats.png)
+!["starting.png"](https://github.com/sylvain-gdk/project-tic-tac-toe/blob/master/docs/stats.png)
